@@ -1,0 +1,40 @@
+Ts: Add an item to Cart
+
+Tc01: Add an item to Cart from Automative department
+
+OpenBrowser
+Enter url
+click on Todaysdeal
+select Automative checkbox
+click on first item
+click on first item in sublist
+click on add2cart
+verifysucessmsg
+CloseBrowser
+
+Tc02: Add an item to Cart from Furniture department
+
+OpenBrowser
+Enter url
+click on Todaysdeal
+select Furniture checkbox
+click on first item
+click on first item in sublist
+click on add2cart
+verifysucessmsg
+CloseBrowser
+
+
+Tc03: Add an item to Cart from Menswatches department
+
+OpenBrowser
+Enter url
+click on Todaysdeal
+select Menswatches checkbox
+click on first item
+click on first item in sublist
+click on add2cart
+verifysucessmsg
+CloseBrowser
+
+

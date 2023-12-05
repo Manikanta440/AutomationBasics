@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="Practice.TestLoginPage"/>
+      <class name="seleniumExamples.DynamicStockTable"/>
+      <class name="properties.Propertiesjavaclass"/>
+      <class name="seleniumExamples.Tooltipmsgandmethodsinselenum"/>
+      <class name="seleniumExamples.WebTable"/>
+      <class name="robotclassAndManagewindows.RobotClassExample"/>
+      <class name="Practice.Testclasss"/>
+      <class name="seleniumExamples.WorkWithTabsAndWindows"/>
+      <class name="testScriptSelenium.AmazonTestAutomation"/>
+      <class name="testScriptSelenium.Fullscreenshotclass"/>
+      <class name="javaScriptExcutioner.LoginPageJavaScriptExcutioner"/>
+      <class name="seleniumExamples.GetAllLiknks"/>
+      <class name="seleniumExamples.Screenshitclass"/>
+      <class name="Practice.JqueryuiPractice"/>
+      <class name="robotclassAndManagewindows.SikuliImages"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
